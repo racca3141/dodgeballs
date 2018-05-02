@@ -1,6 +1,7 @@
 # Dodge-Balls
 Dodge the balls!
 
+![image](https://user-images.githubusercontent.com/31526815/39537021-29215b94-4ded-11e8-939c-21bff21ab87b.png)
 
 ![image](https://user-images.githubusercontent.com/31526815/39536921-e38f4726-4dec-11e8-82f0-01053941dc8c.png)
 
