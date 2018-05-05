@@ -9,4 +9,6 @@ This is a game.  It's simple, but it's a great exercise and a starting point for
 
 Collision between a circle and a rectangle requires checking 8 quadrants.  Although, there are other methods, this was chosen and straightforward.  The code checks for a direct hit on each of the 4 sides of the square.  The other 4 are the corners.
 
+I'll post the .java files after the 18th.
+
 
