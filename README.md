@@ -12,7 +12,7 @@ Collision between a circle and a rectangle requires checking 8 quadrants.  Altho
 
 ---
 
-This was created for College of the Sequoias' (Tulare, CA) class COMP 008 - Programming Concepts. 
+This was created for College of the Sequoias' (Tulare, CA) COMP 008 - Programming Concepts. 
 
 
 
